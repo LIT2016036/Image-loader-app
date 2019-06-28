@@ -1,0 +1,4 @@
+#Mon Sep 10 16:17:24 IST 2018
+base.0=/home/shubhi/Downloads/PicassoImageLoader/app/build/intermediates/transforms/dexMerger/debug/108
+path.0=classes.dex
+renamed.0=classes.dex

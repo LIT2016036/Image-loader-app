@@ -1,0 +1,199 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [com.github.d-max:spots-dialog:0.7] /home/shubhi/.gradle/caches/transforms-1/files-1.1/spots-dialog-0.7.aar/addba3d55f08f3fd46e569e7d684e964/AndroidManifest.xml:2:1-14:12
+MERGED from [com.nbsp:library:1.8] /home/shubhi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/51d67e5b9999225f632cc4202d73b877/AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:design:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/3324a7a33b7a58541c843b708c11182a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/768bd3f3a34e63384af85a24bc5386f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/shubhi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/f118759530f666918efe9430b8f20564/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/984a58edfcd2d6f12fc889a35df66526/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/38cb8b53e63c7dfaecf8f2c662504424/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/ce850d176847db94a350ae06ab4090da/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/c52e2d3cc116e40b4e31fa2813c90d5f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/7c3d6a66b44f996ce395231923e71da5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/b126823043856d5a5f5278f5d552f75a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/edc92214fc87f15e4248ae45ab49c20c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/ff5f956f0a0060bcb5301ec4d5a0dc22/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/ba4ac42c9ebc999001f43f712525a9a4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/bd6bbd7d72de538fefaa588b50a4ca62/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/4d2d405d9d153f57482a8d6975c5e12d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/ed7bda2b08afb31c17def9c9daebf6c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/1311dbe99a5476cd6d46d2bd6897f254/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/7632806c624b7e78ddd381e0346b4c18/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/68280c0e3a4afb9785e1764789425e0e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/177a31c27b19afeb070d358c25590bb1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/1c6048a89205e2686632bac3794fa68b/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/5fb3196003dc56f6e71d3239ecc231f4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/shubhi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ce4fcab2c6acad61bccca9fce1465637/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/1183322460c8cfce966973a652b80d25/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/bd6281e94595c25f396fcb41e558544e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/01c56af75477f5ef2f55a58a0de33c25/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/shubhi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f14910270b6b2bdb20d6208b9317b0e7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/shubhi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f6017d13462acf232e49f1cd5ae4fe20/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/shubhi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9df8379ff523fc80576f83a2ce15d807/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/e1dd73d428e9cf5a8e777fec5787519a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/f50e3fd58339594b1b3ae0af75950dbf/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:3:5-52
+		INJECTED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml
+		ADDED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml
+		ADDED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:7:5-79
+MERGED from [com.nbsp:library:1.8] /home/shubhi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/51d67e5b9999225f632cc4202d73b877/AndroidManifest.xml:11:5-80
+MERGED from [com.nbsp:library:1.8] /home/shubhi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/51d67e5b9999225f632cc4202d73b877/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:7:22-77
+application
+ADDED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:9:5-26:19
+MERGED from [com.github.d-max:spots-dialog:0.7] /home/shubhi/.gradle/caches/transforms-1/files-1.1/spots-dialog-0.7.aar/addba3d55f08f3fd46e569e7d684e964/AndroidManifest.xml:12:5-20
+MERGED from [com.github.d-max:spots-dialog:0.7] /home/shubhi/.gradle/caches/transforms-1/files-1.1/spots-dialog-0.7.aar/addba3d55f08f3fd46e569e7d684e964/AndroidManifest.xml:12:5-20
+MERGED from [com.nbsp:library:1.8] /home/shubhi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/51d67e5b9999225f632cc4202d73b877/AndroidManifest.xml:13:5-18:19
+MERGED from [com.nbsp:library:1.8] /home/shubhi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/51d67e5b9999225f632cc4202d73b877/AndroidManifest.xml:13:5-18:19
+MERGED from [com.android.support:design:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/3324a7a33b7a58541c843b708c11182a/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/3324a7a33b7a58541c843b708c11182a/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/shubhi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/f118759530f666918efe9430b8f20564/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/shubhi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/f118759530f666918efe9430b8f20564/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/177a31c27b19afeb070d358c25590bb1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/177a31c27b19afeb070d358c25590bb1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/1c6048a89205e2686632bac3794fa68b/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/1c6048a89205e2686632bac3794fa68b/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/177a31c27b19afeb070d358c25590bb1/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.example.anjali.picassoimageloader.MainActivity
+ADDED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml
+INJECTED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml
+MERGED from [com.github.d-max:spots-dialog:0.7] /home/shubhi/.gradle/caches/transforms-1/files-1.1/spots-dialog-0.7.aar/addba3d55f08f3fd46e569e7d684e964/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.d-max:spots-dialog:0.7] /home/shubhi/.gradle/caches/transforms-1/files-1.1/spots-dialog-0.7.aar/addba3d55f08f3fd46e569e7d684e964/AndroidManifest.xml:8:5-10:41
+MERGED from [com.nbsp:library:1.8] /home/shubhi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/51d67e5b9999225f632cc4202d73b877/AndroidManifest.xml:7:5-9:41
+MERGED from [com.nbsp:library:1.8] /home/shubhi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/51d67e5b9999225f632cc4202d73b877/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/3324a7a33b7a58541c843b708c11182a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/3324a7a33b7a58541c843b708c11182a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/768bd3f3a34e63384af85a24bc5386f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/768bd3f3a34e63384af85a24bc5386f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/shubhi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/f118759530f666918efe9430b8f20564/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/shubhi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/f118759530f666918efe9430b8f20564/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/984a58edfcd2d6f12fc889a35df66526/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/984a58edfcd2d6f12fc889a35df66526/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/38cb8b53e63c7dfaecf8f2c662504424/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/38cb8b53e63c7dfaecf8f2c662504424/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/ce850d176847db94a350ae06ab4090da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/ce850d176847db94a350ae06ab4090da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/c52e2d3cc116e40b4e31fa2813c90d5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/c52e2d3cc116e40b4e31fa2813c90d5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/7c3d6a66b44f996ce395231923e71da5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/7c3d6a66b44f996ce395231923e71da5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/b126823043856d5a5f5278f5d552f75a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/b126823043856d5a5f5278f5d552f75a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/edc92214fc87f15e4248ae45ab49c20c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/edc92214fc87f15e4248ae45ab49c20c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/ff5f956f0a0060bcb5301ec4d5a0dc22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/ff5f956f0a0060bcb5301ec4d5a0dc22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/ba4ac42c9ebc999001f43f712525a9a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/ba4ac42c9ebc999001f43f712525a9a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/bd6bbd7d72de538fefaa588b50a4ca62/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/bd6bbd7d72de538fefaa588b50a4ca62/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/4d2d405d9d153f57482a8d6975c5e12d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/4d2d405d9d153f57482a8d6975c5e12d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/ed7bda2b08afb31c17def9c9daebf6c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/ed7bda2b08afb31c17def9c9daebf6c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/1311dbe99a5476cd6d46d2bd6897f254/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/1311dbe99a5476cd6d46d2bd6897f254/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/7632806c624b7e78ddd381e0346b4c18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/7632806c624b7e78ddd381e0346b4c18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/68280c0e3a4afb9785e1764789425e0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/68280c0e3a4afb9785e1764789425e0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/177a31c27b19afeb070d358c25590bb1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/177a31c27b19afeb070d358c25590bb1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/1c6048a89205e2686632bac3794fa68b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/1c6048a89205e2686632bac3794fa68b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/5fb3196003dc56f6e71d3239ecc231f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/5fb3196003dc56f6e71d3239ecc231f4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/shubhi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ce4fcab2c6acad61bccca9fce1465637/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/shubhi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ce4fcab2c6acad61bccca9fce1465637/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/1183322460c8cfce966973a652b80d25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/1183322460c8cfce966973a652b80d25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/bd6281e94595c25f396fcb41e558544e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/bd6281e94595c25f396fcb41e558544e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/01c56af75477f5ef2f55a58a0de33c25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/01c56af75477f5ef2f55a58a0de33c25/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/shubhi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f14910270b6b2bdb20d6208b9317b0e7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/shubhi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f14910270b6b2bdb20d6208b9317b0e7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/shubhi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f6017d13462acf232e49f1cd5ae4fe20/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/shubhi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/f6017d13462acf232e49f1cd5ae4fe20/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/shubhi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9df8379ff523fc80576f83a2ce15d807/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/shubhi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9df8379ff523fc80576f83a2ce15d807/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/e1dd73d428e9cf5a8e777fec5787519a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/e1dd73d428e9cf5a8e777fec5787519a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/f50e3fd58339594b1b3ae0af75950dbf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /home/shubhi/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/f50e3fd58339594b1b3ae0af75950dbf/AndroidManifest.xml:20:5-44
+INJECTED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml
+INJECTED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml
+		ADDED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml
+		ADDED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shubhi/Downloads/PicassoImageLoader/app/src/main/AndroidManifest.xml
+activity#com.nbsp.materialfilepicker.ui.FilePickerActivity
+ADDED from [com.nbsp:library:1.8] /home/shubhi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/51d67e5b9999225f632cc4202d73b877/AndroidManifest.xml:14:9-17:20
+	android:theme
+		ADDED from [com.nbsp:library:1.8] /home/shubhi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/51d67e5b9999225f632cc4202d73b877/AndroidManifest.xml:16:13-49
+	android:name
+		ADDED from [com.nbsp:library:1.8] /home/shubhi/.gradle/caches/transforms-1/files-1.1/library-1.8.aar/51d67e5b9999225f632cc4202d73b877/AndroidManifest.xml:15:13-77
